@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ShaderViewController_Example' do
+  pod 'ShaderViewController', :path => '../'
+
+  target 'ShaderViewController_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
