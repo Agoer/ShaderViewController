@@ -1,6 +1,5 @@
 # ShaderViewController
 
-[![CI Status](http://img.shields.io/travis/rhinoid/ShaderViewController.svg?style=flat)](https://travis-ci.org/rhinoid/ShaderViewController)
 [![Version](https://img.shields.io/cocoapods/v/ShaderViewController.svg?style=flat)](http://cocoapods.org/pods/ShaderViewController)
 [![License](https://img.shields.io/cocoapods/l/ShaderViewController.svg?style=flat)](http://cocoapods.org/pods/ShaderViewController)
 [![Platform](https://img.shields.io/cocoapods/p/ShaderViewController.svg?style=flat)](http://cocoapods.org/pods/ShaderViewController)
@@ -19,6 +18,8 @@ it, simply add the following line to your Podfile:
 ```ruby
 pod 'ShaderViewController'
 ```
+
+Actually... It's not available that way yet. It'll be in the near future.
 
 ## Author
 

@@ -1,0 +1,22 @@
+{
+  "name": "ShaderViewController",
+  "version": "0.1.0",
+  "summary": "A short description of ShaderViewController.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/rhinoid/ShaderViewController",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "rhinoid": "rhino@finished.nl"
+  },
+  "source": {
+    "git": "https://github.com/rhinoid/ShaderViewController.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ShaderViewController/Classes/**/*"
+}

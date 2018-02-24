@@ -1,0 +1,16 @@
+PODS:
+  - ShaderViewController (0.1.0)
+
+DEPENDENCIES:
+  - ShaderViewController (from `../`)
+
+EXTERNAL SOURCES:
+  ShaderViewController:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ShaderViewController: 60f7ca91432cbde6b63b234bb9f261510c3ae008
+
+PODFILE CHECKSUM: 146c5d36e8ce4066c9d20b3266db6cf864d772bb
+
+COCOAPODS: 1.4.0
