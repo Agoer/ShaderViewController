@@ -21,6 +21,9 @@ pod 'ShaderViewController'
 
 Actually... It's not available that way yet. It'll be in the near future.
 
+For now just copy ShaderVC.swift from the repo and use that to have a ViewController which has a shader running.
+For shaders look at the accompanying ShaderEditor for iOS called 'Shaders - Shader editor'
+
 ## Author
 
 rhinoid, rhino@finished.nl
